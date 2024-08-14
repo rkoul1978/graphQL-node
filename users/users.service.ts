@@ -162,7 +162,7 @@ export class UsersService {
                 "id":300,
                 "firstName": "Natasha",
                 "lastName": "SETH KOUL",
-                "password": "amaz1ingP4ss",
+                "password": "",
                 "permissionLevel": 10,
                 "email": "nat.koul@toptal.com"
             }
